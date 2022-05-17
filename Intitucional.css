@@ -16,13 +16,67 @@ li{
     text-align: center;
 
     width: 150px;
-
+}
+.Institucional{
+    text-align: center;
+    float: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 45px;
+}
+.QuemSomos {
+    text-align: center;
+    float: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.Missão {
+    text-align: center;
+    float: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.Visão {
+    text-align: center;
+    float: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.Valores{
+    text-align: center;
+    float: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.OqueFazemos {
+    text-align: center;
+    float: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+ul {
+    display: block;
+    margin:0 auto;
+    width: 200px;
+}
+li {
+    text-align: center;
+    float: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
     
+}
 
-
-
-
-
-
-
+#NossosNumeros {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    float: center;
+}
+#Unidades {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    float: center;
+}
+#Formulario {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    float: center;
+}
+#sucesso {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    float: center;
 }
